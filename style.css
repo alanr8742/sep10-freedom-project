@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 p {
@@ -11,6 +11,7 @@ p {
     margin: 0 auto;
 }
 
-.card {
-    
+img {
+    display: block;
+    margin: auto;
 }
