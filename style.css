@@ -9,9 +9,14 @@ p {
 
 .fire {
     margin: 0 auto;
+    
 }
 
 img {
     display: block;
     margin: auto;
+}
+
+.card {
+    margin: 10px;
 }
