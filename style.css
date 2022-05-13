@@ -2,6 +2,7 @@ h1 {
     text-align: center;
     margin-top: 70px;
     color: white;
+    border: black dashed 4px;
 }
 
 p {
@@ -32,5 +33,10 @@ img {
 
 body {
     background-color: #8b0000;
+}
+
+a-scene {
+    height: 300px;
+    width: 600px;
 }
 
